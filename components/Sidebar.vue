@@ -1,7 +1,6 @@
 <template>
     <div>
-        <!-- sidebar -->
-        <h1>Sidebar</h1>
+<!-- sidebar -->
     </div>
 </template>
 
@@ -9,4 +8,6 @@
 
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+
+</style>
